@@ -28,9 +28,9 @@ inicio
         leia(n5)
         
         
-        media <- n1 + n2 + n3 + n4 + n5
+        media <- (n1 + n2 + n3 + n4 + n5) / 5
         
-        escreva("sua media no enem é:",media / 5)
+        escreva("sua media no enem é:",media)
 
         senao
         escreva("tudo bem!")
